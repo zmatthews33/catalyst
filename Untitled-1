@@ -1,0 +1,231 @@
+<section id="services" class="title-bg section-full justify-content-center"></section>
+		<section class="section-full gray-bg"></section>
+		
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-10">
+						<div class="section-title text-center">
+							<p class="text-uppercase">About Catalyst</p>
+							<h3>Helping People Get Out Of Pain and Active Again</h3>
+							<h4>What would you be doing if you had no limitations? <br>
+						No matter your motivation, be it working out, climbingm
+							</h4>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="img/s1.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">Physical Therapy</h5>
+								<p>It is a good idea to think of your PC as an office. It stores files, programs, pictures. This can be compared to an actual office’s files</p>
+								<!--<a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a>-->
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="img/s2.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">Performance Training</h5>
+								<p>If you are in the market for a computer, there are a number of factors to consider. Will it be used for your home, your office or perhaps </p>
+								<!--<a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a>-->
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-4">
+						<figure class="signle-service">
+							<img src="img/s3.jpg" class="img-fluid" alt="">
+							<figcaption class="text-center">
+								<h5 class="text-uppercase">Online Training</h5>
+								<p>Having a baby can be a nerve wrackingexp erience for new parents – not the nine months of pregnancy, I’m talking</p>
+							<!--	<a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a> -->
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="row" id="testimonials">
+				<div class="col-md-4">
+			</div>
+		</section>
+
+
+        <section id="protfolio" class="section-full">
+			<div class="container">
+				<div>
+					<div class="col-lg-8">
+			
+						
+								<form>
+										<div class="form-group row">
+										  <label for="text1" class="col-4 col-form-label">Name</label> 
+										  <div class="col-8">
+											<input type="text" name="name" placeholder="Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Name'" required>
+										  </div>
+										</div>
+										<div class="form-group row">
+										  <label for="text" class="col-4 col-form-label">Phone</label> 
+										  <div class="col-8">
+											<input id="text" name="phone" placeholder="615-555-5555" type="text" required="required" class="form-control">
+										  </div>
+										</div>
+										<div class="form-group row">
+										  <label for="text2" class="col-4 col-form-label">Email</label> 
+										  <div class="col-8">
+											<input type="email" name="email" placeholder="Email Address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" required>
+										  </div>
+										</div>
+										<div class="form-group row">
+										  <label for="select" class="col-4 col-form-label">Would you like a 15-minute phone consult before booking an appointment?</label> 
+										  <div class="col-8">
+											<select id="select" name="yesno" class="custom-select" required="required">
+											  <option value="Yes">Yes, I'd like to set up a phone call.</option>
+											  <option value="No">No, I'm ready to book with you ASAP</option>
+											</select>
+										  </div>
+										</div>
+										<div class="form-group row">
+										  <label for="select1" class="col-4 col-form-label">How long has this problem been going on?</label> 
+										  <div class="col-8">
+											<select id="select1" name="howlong" class="custom-select" required="required">
+											  <option value="1-2 weeks">1-2 weeks</option>
+											  <option value="1-2 months">1-2 months</option>
+											  <option value="2+ months">2+ months</option>
+											</select>
+										  </div>
+										</div>
+										<div class="form-group row">
+										  <label for="textarea" class="col-4 col-form-label">What is going on? What are your goals?</label> 
+										  <div class="col-8">
+											<textarea name="message" placeholder="Type your message here..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type your message here...'" required></textarea>
+										  </div>
+										</div> 
+										<div class="form-group row">
+										  <div class="offset-4 col-8">
+											<button name="submit" type="submit" class="btn btn-primary justify-content-center">Submit</button>
+										  </div>
+										</div>
+									  </form>
+									  
+						
+						
+						</div>
+
+
+				
+
+				</div>
+			</div>
+		</section>
+
+
+        	<section id="contact" class="section-full gray-bg">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-lg-8">
+						<div class="product-area-title text-center">
+							<!--<p class="text-uppercase">Latest From Blog</p>-->
+							<h2 class="h1">CONTACT</h2>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-6 mt-30">
+						<h6> Catalyst Physical Therapy and Performance</h6>
+						<div class="row">
+							<div class="col-sm-6">
+								<div class="address mt-20">
+									<h6 class="text-uppercase mb-15"> Address</h6>
+									<p>1056 E Trinity Ln, #104 <br> Nashville, TN 37216
+										<br>
+										<br>
+										(Located inside CrossFit Rising Sun)
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-6">
+								<div class="address mt-20">
+									<h6 class="text-uppercase mb-15">Phone</h6>
+									<a href="tel:1-615-516-2337">1(615)516-2237</a> <br>
+									
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-6 mt-30">
+						<form id="myForm" action="mail.php" method="post" class="contact-form">
+							<div class="single-input color-2 mb-10">
+								<input type="text" name="fname" placeholder="Full Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Full Name'" required>
+							</div>
+							<div class="single-input color-2 mb-10">
+								<input type="email" name="email" placeholder="Email Address" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address'" required>
+							</div>
+							<div class="single-input color-2 mb-10">
+								<input type="text" name="subject" placeholder="Subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Subject'" required>
+							</div>
+
+							<div class="single-input color-2 mb-10">
+								<textarea name="message" placeholder="Type your message here..." onfocus="this.placeholder = ''" onblur="this.placeholder = 'Type your message here...'" required></textarea>
+							</div>
+							<div class="d-flex justify-content-end"><button class="mt-10 primary-btn d-inline-flex text-uppercase align-items-center">Send Message<span class="lnr lnr-arrow-right"></span></button></div>
+							<div class="alert"></div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+
+        <div class="col-lg-6 mt-30">
+						<form id="myForm" action="mail.php" method="post" class="contact-form">
+								<div class="form-group row">
+										<label for="text1" class="col-4 col-form-label">Name</label> 
+										<div class="col-8">
+										  <input id="text1" name="name" placeholder="Jane Doe" type="text" required="required" class="form-control">
+										</div>
+									  </div>
+									  <div class="form-group row">
+										<label for="text" class="col-4 col-form-label">Phone</label> 
+										<div class="col-8">
+										  <input id="text" name="text" placeholder="615-555-5555" type="text" required="required" class="form-control">
+										</div>
+									  </div>
+									  <div class="form-group row">
+										<label for="text2" class="col-4 col-form-label">Email</label> 
+										<div class="col-8">
+										  <input id="text2" name="text2" placeholder="youremail@gmail.com" type="text" class="form-control">
+										</div>
+									  </div>
+									  <div class="form-group row">
+										<label for="select" class="col-4 col-form-label">Would you like a 15-minute phone consult before booking an appointment?</label> 
+										<div class="col-8">
+										  <select id="select" name="select" class="custom-select" required="required">
+											<option value="Yes">Yes, I'd like to set up a phone call.</option>
+											<option value="No">No, I'm ready to book with you ASAP</option>
+										  </select>
+										</div>
+									  </div>
+									  <div class="form-group row">
+										<label for="select1" class="col-4 col-form-label">How long has this problem been going on?</label> 
+										<div class="col-8">
+										  <select id="select1" name="select1" class="custom-select" required="required">
+											<option value="1-2 weeks">1-2 weeks</option>
+											<option value="1-2 months">1-2 months</option>
+											<option value="2+ months">2+ months</option>
+										  </select>
+										</div>
+									  </div>
+									  <div class="form-group row">
+										<label for="textarea" class="col-4 col-form-label">What is going on? What are your goals?</label> 
+										<div class="col-8">
+										  <textarea id="textarea" name="textarea" cols="40" rows="5" class="form-control" required="required"></textarea>
+										</div>
+									  </div> 
+							<div class="d-flex justify-content-end"><button class="mt-10 primary-btn d-inline-flex text-uppercase align-items-center">Send Message<span class="lnr lnr-arrow-right"></span></button></div>
+							<div class="alert"></div>
+						</form>
+					</div>
