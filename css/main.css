@@ -1300,18 +1300,18 @@ th {
 .single-filter-content .overlay-bg-content {
   background: -moz-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+    rgba(0, 0, 0, 0.95) 100%
   );
   background: -webkit-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+     rgba(10, 5, 5, 0.95) 0%,
   );
   background: linear-gradient(
     to right,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+    rgba(0, 0, 0, 0.95) 100%
   );
   text-align: center;
   padding: 50px 100px;
@@ -1330,7 +1330,7 @@ th {
   margin: 10px 0 15px 0;
   width: 100%;
   height: 1px;
-  background: #00ff8c;
+  background: #ffffff;
 }
 
 .single-filter-content:hover .overlay-bg-content {
@@ -1383,18 +1383,18 @@ th {
 .single-member .thumb .overlay-member {
   background: -moz-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+    rgba(0, 0, 0, 0.95) 100%
   );
   background: -webkit-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+     rgba(10, 5, 5, 0.95) 0%,
   );
   background: linear-gradient(
     to right,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(80, 80, 80, 0.95) 0%,
+    rgba(0, 0, 0, 0.95) 100%
   );
   text-align: center;
   padding: 30px;
