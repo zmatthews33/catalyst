@@ -1187,7 +1187,9 @@ th {
     rgba(21, 26, 112, 0.8) 100%  );*/
  
 }
+.img-logo{
 
+}
 
 .single-service figcaption {
   background: #fff;
@@ -1414,7 +1416,7 @@ th {
   margin: 20px 0 20px 0;
   width: 100%;
   height: 1px;
-  background: #00ff8c;
+  background: #ffffff;
 }
 
 .single-member .thumb .overlay-member .social a {
@@ -1424,7 +1426,7 @@ th {
 }
 
 .single-member .thumb .overlay-member .social a:hover {
-  color: #00ff8c;
+  color: #ffffff;
 }
 
 .single-member .thumb:hover .overlay-member {
