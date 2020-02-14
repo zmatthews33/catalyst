@@ -45,15 +45,12 @@ $(document).ready(function() {
     if (this.hash !== "") {
       event.preventDefault();
       var hash = this.hash;
+      var headerHeight = $(".sticky-header").height();
       $("html, body").animate(
         {
-          scrollTop: $(hash).offset().top - -10
+          scrollTop: $(hash).offset().top - headerHeight
         },
-        600,
-        function() {
-          window.location.hash = hash;
-        }
-      );
+        600);
     }
   });
 

@@ -929,7 +929,7 @@ th {
 
 .details-btn:hover {
   width: 140px;
-  background: #00ff8c;
+  background: #ffffff;
   box-shadow: 0px 10px 20px 0px rgba(60, 64, 143, 0.2);
 }
 
@@ -991,7 +991,7 @@ th {
 }
 
 .default-header nav .main-menu a:hover {
-  color: #00ff8c;
+  color: #ffffff;
 }
 
 .default-header nav .mobile-btn {
@@ -1011,7 +1011,7 @@ th {
     position: absolute;
     top: 40px;
     right: 0;
-    background:#4a4fad;
+    background:#000000;
     padding: 30px 20px;
   }
   .default-header .main-menu a {
@@ -1033,22 +1033,22 @@ th {
 .is-sticky .sticky-header {
   background: -moz-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(0, 0, 0, 0.95) 0%,
+    rgba(46, 46, 46, 0.95) 100%
   );
   background: -webkit-linear-gradient(
     left,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(0, 0, 0, 0.95) 0%,
+    rgba(46, 46, 46, 0.95) 100%
   );
   background: linear-gradient(
     to right,
-    rgba(60, 64, 143, 0.95) 0%,
-    rgba(91, 97, 207, 0.95) 100%
+    rgba(0, 0, 0, 0.95) 0%,
+    rgba(46, 46, 46, 0.95) 100%
   );
 }
 
-}
+
 
 .search {
   padding: 6px 20px;
@@ -1087,7 +1087,7 @@ th {
 
 .search-field input {
   line-height: 60px;
-  background: #4a4fad;
+  background: #000000;
   width: 600px;
   border: none;
   color: #fff;
@@ -1147,7 +1147,7 @@ th {
 }
 
 .header-social a:hover {
-  color: #00ff8c;
+  color: #ffffff;
 }
 
 .footer-social {
@@ -1163,7 +1163,7 @@ th {
 }
 
 .footer-social a:hover {
-  color: #00ff8c;
+  color: #ffffff;
 }
 
 .banner-area {
@@ -1544,7 +1544,7 @@ th {
   background: #fff;
   border: 2px;
   border-style: solid;
-  border-color: #5b61cf;
+  border-color: #000000;
   text-align: center;
 }
 
@@ -1643,7 +1643,7 @@ th {
 }
 
 .cta-area {
-  background: #3d4191;
+  background: #404041;
   padding: 60px 0;
 }
 
