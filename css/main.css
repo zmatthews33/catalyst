@@ -145,7 +145,7 @@ h6 {
 
 .h1,
 .h1 {
-  font-size: 2.5em;
+  font-size: 4em;
 }
 
 h2,
@@ -755,9 +755,9 @@ th {
   padding: 0 40px;
   border-radius: 5px;
   text-transform: uppercase;
-  background: #ffef0c;
+  background: #0056f7;
   border: 1px solid black;
-  color: #222222;
+  color: #ffffff !important;
   display: inline-block;
   font-weight: 600;
   -webkit-transition: all 0.3s ease 0s;
@@ -783,18 +783,18 @@ th {
 }
 
 .primary-btn:hover {
-  background: #ffef0c;
+  background: #2caefa;
   color: #777777;
   border: 1px solid #777777;
-  box-shadow: 0px 10px 20px 0px rgba(255, 251, 4, 0.829);
+  box-shadow: 0px 5px 5px 0px rgba(255, 251, 4, 0.151);
 }
 .navbar-btn {
   line-height: 35px;
   padding: 0 20px;
   border-radius: 5px;
-  background: #ffef0c;
+  background: #0056f7;
   border: 1px solid #222222;
-  color: white;
+  color: white !important;
   text-transform: uppercase;
   align-content: center;
   justify-content: center;
@@ -808,24 +808,19 @@ th {
   scroll-behavior: smooth;
 }
 .navbar-btn:hover {
-  background: #ffef0c;
-  color: #777777;
+  background: #2caefa;
+  color: #ffffff;
   border: 1px solid #777777;
-  box-shadow: 0px 10px 20px 0px rgba(255, 251, 4, 0.829);
+  box-shadow: 0px 5px 5px 0px rgba(255, 251, 4, 0.151);
 }
-.page-btn {
-  background: #ffef0c;;
-}
-.page-btn {
-  background: #ffef0c;;
-}
+
 .section-title {
   padding-bottom: 50px;
 }
 
 .section-title h3 {
   font-weight: 300;
-  font-size: 24px;
+  font-size: 4em;
   color: #777777;
 }
 
@@ -931,6 +926,7 @@ th {
   width: 140px;
   background: #ffffff;
   box-shadow: 0px 10px 20px 0px rgba(60, 64, 143, 0.2);
+  
 }
 
 .details-btn:hover .details {
