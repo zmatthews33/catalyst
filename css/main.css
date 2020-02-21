@@ -1265,7 +1265,7 @@ th {
 }
 
 .single-product:hover {
-  background: #00ff8c;
+  background: #fff;
 }
 
 .single-product:hover .icon span,
@@ -1438,7 +1438,7 @@ th {
 }
 
 .single-member .desc h5 a:hover {
-  color: #00ff8c;
+  color: #fff;
 }
 
 .single-member .desc p {
@@ -1664,7 +1664,7 @@ footer .footer-nav li {
 }
 
 footer .footer-nav li a:hover {
-  color: #00ff8c;
+  color: #fff;
 }
 
 .subscription input {
@@ -1743,6 +1743,6 @@ footer .footer-nav li a:hover {
 }
 
 .footer-bottom .footer-text a:hover {
-  color: #00ff8c;
+  color: #fff;
 }
 i

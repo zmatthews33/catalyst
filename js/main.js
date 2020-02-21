@@ -59,9 +59,9 @@ $(document).ready(function() {
     dot: true,
     items: 3,
     margin: 30,
-    autoplay: true,
-    autoplayTimeout: 3000,
-    autoplayHoverPause: true,
+    autoplay: false,
+    // autoplayTimeout: 3000,
+    // autoplayHoverPause: false,
     animateOut: "fadeOutLeft",
     animateIn: "fadeInRight",
     responsive: {
